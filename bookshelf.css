@@ -90,6 +90,7 @@
   transform-style: preserve-3d;
   transform: translateZ(0) rotateY(0);
   transition: transform 1s;
+  cursor: pointer;
 }
 
 .side {

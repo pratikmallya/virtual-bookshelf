@@ -94,7 +94,7 @@
 }
 
 .side {
-  position: absolute;
+  position: relative;
   border: 2px solid black;
   border-radius: 3px;
   font-weight: bold;
@@ -114,7 +114,7 @@
 
 .spine-title {
   margin: 2px;
-  position: absolute;
+  position: relative;
   top: 0px;
   left: 0px;
   font-size: 12px;
@@ -124,7 +124,7 @@
 }
 
 .spine-author {
-  position: absolute;
+  position: relative;
   color: goldenrod;
   bottom: 0px;
   left: 20%;

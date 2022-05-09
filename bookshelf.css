@@ -158,3 +158,11 @@
   position: relative;
   transform: rotateX(-25deg) rotateY(-40deg) rotateZ(-15deg) translateY(50px) translateX(-30px);
 }
+
+body {
+  font-family: "PT Serif", serif;
+  margin: 40px auto;
+  max-width: 760px;
+  padding: 20px;
+  text-rendering: optimizeLegibility;
+}
